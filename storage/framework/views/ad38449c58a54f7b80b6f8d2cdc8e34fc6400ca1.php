@@ -1,0 +1,2 @@
+<div>Post Title : <?php echo e($title); ?></div>
+<div>Description : <?php echo e($description); ?></div><?php /**PATH C:\Users\tahir\Sites\simple_sub\resources\views/emails/new_post.blade.php ENDPATH**/ ?>
